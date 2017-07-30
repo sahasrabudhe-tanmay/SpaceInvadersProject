@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 913, y: 442}
-  m_MaxSize: {x: 22008, y: 10021}
+  m_MinSize: {x: 917, y: 442}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 409
+  controlID: 8071
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 366
+  controlID: 7912
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,9 +183,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.3003626, y: -1.9310693, z: 0}
+    m_Target: {x: -0.37265834, y: -1.4232965, z: 0}
     speed: 2
-    m_Value: {x: -4.3003626, y: -1.9310693, z: 0}
+    m_Value: {x: -0.37265834, y: -1.4232965, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -212,9 +212,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 117.02302
+    m_Target: 87.892456
     speed: 2
-    m_Value: 117.02302
+    m_Value: 87.892456
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -268,8 +268,8 @@ MonoBehaviour:
     y: 0
     width: 244
     height: 947
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -303,9 +303,9 @@ MonoBehaviour:
     height: 926
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9c250000
-    m_LastClickedID: 9628
-    m_ExpandedIDs: 04f8ffffe4fbffff00000000
+    m_SelectedIDs: 3c060000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 22a1ffff04f8ffffe4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -390,18 +390,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Tanmay\Documents\Unity Projects\SpaceInvadersProject
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e8240000
-    m_LastClickedID: 9448
+    m_SelectedIDs: 44250000
+    m_LastClickedID: 9540
     m_ExpandedIDs: 00000000bc24000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -418,7 +418,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 9}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -455,24 +455,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 9c250000
-    m_LastClickedInstanceID: 9628
+    m_SelectedInstanceIDs: 3c060000
+    m_LastClickedInstanceID: 1596
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: de250000
+    m_ExpandedInstanceIDs: de250000ea240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Bullet
+      m_OriginalName: Bullet
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -8130
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:

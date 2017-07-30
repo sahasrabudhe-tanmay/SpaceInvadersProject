@@ -18,6 +18,7 @@ public class SpaceShip : MonoBehaviour {
         if (Input.GetButtonDown("Jump"))
         {
             Instantiate(theBullet, transform.position, Quaternion.identity);
+            SoundManager.Instance.PlayOneShot(SoundManager.Instance.bulletFire);
         }
 	}
 }
